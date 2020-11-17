@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, here is hiki <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!--
-**Aneureka/Aneureka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I think myself a programmer/creator who is currently:
 
-Here are some ideas to get you started:
+- 🏫 Studying in Nanjing University
+- 💃 Working in Tiktok(Shanghai) as an intern
+- 🐟 Interested about Go, C++ and distributed system
+- 🌱 Owner of [PUSH TO KINDLE!](https://github.com/Aneureka/push-to-kindle) and [ANIMATE ME!](https://github.com/Aneureka/animate-me)
+- 🎮 Loving ACG and exploring fancy techs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Get me out of this week: 
+
+![Aneureka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aneureka&layout=compact&hide_border=true&theme=radical)
+
+Thanks for coming here, and you may go to [my blog](https://www.aneureka.cn) ☺️
