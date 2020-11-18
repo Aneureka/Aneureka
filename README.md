@@ -1,4 +1,4 @@
-### Hi, here is hiki <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### Hi, lovely you <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 I think myself a programmer/creator who is currently:
 
