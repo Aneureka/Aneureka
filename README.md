@@ -10,6 +10,7 @@ I think myself a programmer/creator who is currently:
 
 Get me out of this week: 
 
-![Aneureka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aneureka&layout=compact&hide_border=true&theme=radical)
+![Aneureka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aneureka&layout=compact&hide_border=true)
 
 Thanks for coming here, and you may go to [my blog](https://www.aneureka.cn) ☺️
+
