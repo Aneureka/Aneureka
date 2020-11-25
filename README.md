@@ -6,7 +6,7 @@ I think myself a programmer/creator who is currently:
 - 💃 Working in Tiktok(Shanghai) as an intern
 - 🐟 Interested about Go, C++ and distributed system
 - 🌱 Owner of [PUSH TO KINDLE!](https://github.com/Aneureka/push-to-kindle) and [ANIMATE ME!](https://github.com/Aneureka/animate-me)
-- 🎮 Loving ACG and exploring fancy techs
+- 🎮 Loving ACG and exploring fancy techs, playing `Super Mario Odyssey` and `Brawl Stars` these days
 
 Get me out of this week: 
 
