@@ -2,10 +2,7 @@
 <h3 align="center">Hi there, I'm Aneureka 👋</h3>
 
 <!-- Subtitle -->
-<h4 align="center">Passionate about C++ & Database in 2023</h4>
-
-<!-- Welcome -->
-<p align="center">Feel free to reach out and connect with me (always happy to chat and collaborate)</p>
+<h4 align="center">I am passionated about C++ & Database (recently)</h4>
 
 <!-- Wakatime Stats -->
 <p align="center">
@@ -13,6 +10,9 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?bg_color=00000000&layout=compact&hide_border=true&username=Aneureka" alt="Wakatime Stats" />
   </a>
 </p>
+
+<!-- Welcome -->
+<p align="center">Feel free to reach out and connect with me (always happy to chat and collaborate)</p>
 
 <!-- Social Media -->
 <p align="center">
