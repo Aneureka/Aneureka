@@ -7,7 +7,7 @@
 <!-- Wakatime Stats -->
 <p align="center">
   <a href="https://wakatime.com/@Aneureka">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?bg_color=00000000&layout=compact&hide_border=true&username=Aneureka&range=all_time" alt="Wakatime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?bg_color=00000000&layout=compact&hide_border=true&username=Aneureka&range=last_7_days" alt="Wakatime Stats" />
   </a>
 </p>
 
