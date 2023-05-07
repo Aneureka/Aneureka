@@ -22,4 +22,7 @@
   <a href="https://twitter.com/Aneureka" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white"/>
   </a>
+  <a href="https://wakatime.com/@Aneureka" target="_blank">
+    <img alt="Wakatime" src="https://wakatime.com/badge/user/ff842c73-7152-4b40-885a-c5a749eb5688.svg"/>
+  </a>
 </p>
