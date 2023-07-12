@@ -2,7 +2,7 @@
 <h3 align="center">Hi there, I'm Aneureka 👋</h3>
 
 <!-- Subtitle -->
-<h4 align="center">I am passionated about C++ & Database (recently)</h4>
+<h4 align="center">I am passionated about C++ & Database</h4>
 
 <!-- Wakatime Stats -->
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <!-- Welcome -->
-<p align="center">Feel free to reach out and connect with me (always happy to chat and collaborate)</p>
+<p align="center">Feel free to reach out and connect with me 🎏</p>
 
 <!-- Social Media -->
 <p align="center">
