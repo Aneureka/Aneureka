@@ -25,4 +25,5 @@
   <a href="https://wakatime.com/@Aneureka" target="_blank">
     <img alt="Wakatime" src="https://wakatime.com/badge/user/ff842c73-7152-4b40-885a-c5a749eb5688.svg"/>
   </a>
+  <img alt="ViewCount" src="https://komarev.com/ghpvc?username=Aneureka&color=ff69b4"/>
 </p>
