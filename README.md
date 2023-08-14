@@ -2,7 +2,7 @@
 <h3 align="center">Hi there, I'm Hiki 👋</h3>
 
 <!-- Subtitle -->
-<h4 align="center">I am passionated about C++ & Database and looking for opportunities 🍡</h4>
+<h4 align="center">I am passionated about C++ & HFT & Database and looking for opportunities 🍡</h4>
 
 <!-- Wakatime Stats -->
 <p align="center">
