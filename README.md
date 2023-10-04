@@ -1,21 +1,25 @@
-<!-- Title -->
-<h3 align="center">Hi there, I'm Hiki 👋</h3>
+<p align="left">
+  <img src="https://www.aneureka.cn/img/cover.png" alt="Homepage Cover" />
+</p>
 
-<!-- Subtitle -->
-<!-- <h4 align="center">I am passionated about C++ & HFT & Database and looking for opportunities 🍡</h4> -->
+Hi there, I'm hiki, currently a backend/systematic software engineer.
+
+- I enjoy writing code in C++, and started to learn Rust recently.
+- I am interested in database kernel development and look forward to contributing to the community.
+- I love anime, games and want to explore more about life.
 
 <!-- Wakatime Stats -->
-<p align="center">
+<p align="left">
   <a href="https://wakatime.com/@Aneureka">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?bg_color=00000000&layout=compact&hide_border=true&username=Aneureka&range=last_7_days" alt="Wakatime Stats" />
   </a>
 </p>
 
 <!-- Welcome -->
-<p align="center">Feel free to reach out and connect with me 🎏</p>
+<p align="left">Feel free to reach out to me and we can have a conversation. 🎏</p>
 
 <!-- Social Media -->
-<p align="center">
+<p align="left">
   <a href="https://www.aneureka.cn" target="_blank">
     <img alt="Homepage" src="https://img.shields.io/badge/Homepage-%23FF69B4.svg?&style=flat&logo=font-awesome&logoColor=white"/>
   </a>
