@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://www.aneureka.cn/img/cover.png" alt="Homepage Cover" />
-</p>
-
 Hi there, I'm hiki, currently a backend/systematic software engineer.
 
 - I enjoy writing code in C++, and started to learn Rust recently.
