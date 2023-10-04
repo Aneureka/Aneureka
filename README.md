@@ -1,6 +1,6 @@
 Hi there, I'm hiki, currently a backend/systematic software engineer.
 
-- I enjoy writing code in C++, and started to learn Rust recently.
+- I enjoy writing code in C++, and started learning Rust recently.
 - I am interested in database kernel development and look forward to contributing to the community.
 - I love anime, games and want to explore more about life.
 
