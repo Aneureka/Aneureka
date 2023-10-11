@@ -1,8 +1,8 @@
-Hi there, I'm hiki, currently a backend/systematic software engineer.
+Hi there, I'm hiki, currently a backend software engineer.
 
-- I enjoy writing code in C++, and started learning Rust recently.
-- I am interested in database kernel development and look forward to contributing to the community.
-- I love anime, games and want to explore more about life.
+* I enjoy writing code in C++, and started learning Rust recently.
+* I am interested in database kernel development and look forward to contributing to the community.
+* I love anime, games and want to explore more about life.
 
 <!-- Wakatime Stats -->
 <p align="left">
@@ -25,5 +25,5 @@ Hi there, I'm hiki, currently a backend/systematic software engineer.
   <a href="https://wakatime.com/@Aneureka" target="_blank">
     <img alt="Wakatime" src="https://wakatime.com/badge/user/ff842c73-7152-4b40-885a-c5a749eb5688.svg"/>
   </a>
-  <img alt="ViewCount" src="https://komarev.com/ghpvc?username=Aneureka&color=ff69b4"/>
+  <!-- <img alt="ViewCount" src="https://komarev.com/ghpvc?username=Aneureka&color=ff69b4"/> -->
 </p>
