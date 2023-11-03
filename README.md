@@ -1,7 +1,7 @@
-Hi there, I'm hiki, currently a backend software engineer.
+Hi there, I'm hiki, currently a software engineer.
 
-* I enjoy writing code in C++, and started learning Rust recently.
-* I am interested in database kernel development and look forward to contributing to the community.
+* I enjoy writing code in C++, doing code profiling and optimization.
+* I am interested in math, mlsys and heterogeneous computing.
 * I love anime, games and want to explore more about life.
 
 <!-- Wakatime Stats -->
