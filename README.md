@@ -17,7 +17,7 @@ Hi there, I'm hiki, currently a software engineer.
 
 <!-- Social Media -->
 <p align="left">
-  <a href="https://www.aneureka.cn" target="_blank">
+  <a href="https://aneureka.cn" target="_blank">
     <img alt="Homepage" src="https://img.shields.io/badge/Homepage-%23FF69B4.svg?&style=flat&logo=font-awesome&logoColor=white"/>
   </a>
   <a href="https://twitter.com/Aneureka" target="_blank">
