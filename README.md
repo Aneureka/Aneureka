@@ -1,9 +1,9 @@
 Hi there, I'm hiki, currently a software engineer in NVIDIA.
 
 * I enjoy writing code in C++, doing code profiling and optimization.
-* I am interested in CUDA, deep learning and HPC.
+* I am interested in CUDA, deep learning and HPC, doing my bit to cuDNN.
+* I am learning CUDA and GPU architecture.
 * I love anime, games and want to explore more about life.
-* I am reading [Programming Massively Parallel Processors](https://book.douban.com/subject/4265432/) and studying [MIT 6.172](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) recently.
 
 <!-- Wakatime Stats -->
 <p align="left">
