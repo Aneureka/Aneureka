@@ -1,16 +1,17 @@
 Hi there, I'm hiki, currently a software engineer in NVIDIA.
 
-* I enjoy writing code in C++, doing code profiling and optimization.
-* I am interested in CUDA, deep learning and HPC, doing my bit to [cuDNN](https://developer.nvidia.com/cudnn).
-* I am learning CUDA and GPU architecture.
+* I love coding (and agentic coding for sure), optimizing and pushing perf to SOL.
+* I love GPU arches and kernels, now working on cuDNN and CuTe DSL.
 * I love anime, games and want to explore more about life.
 
 <!-- Wakatime Stats -->
+<!--
 <p align="left">
   <a href="https://wakatime.com/@Aneureka">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?bg_color=00000000&layout=compact&hide_border=true&username=Aneureka&range=last_7_days" alt="Wakatime Stats" />
   </a>
 </p>
+-->
 
 <!-- Welcome -->
 <p align="left">Feel free to reach out to me and we can have a conversation. 🎏</p>
