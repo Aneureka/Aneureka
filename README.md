@@ -1,8 +1,4 @@
-Hi there, I'm hiki, currently a software engineer in NVIDIA.
-
-* I love coding (and agentic coding for sure), optimizing and pushing perf to SOL.
-* I love GPU arches and kernels, now working on cuDNN and CuTe DSL.
-* I love anime, games and want to explore more about life.
+Hi, this is Hiki. I graduated from Nanjing University and now work as an Architect at NVIDIA. I spend my days doing my bit to kernel libraries (e.g., cuDNN, CuTe DSL) and optimizing GPU kernels -- basically beating the hardware until it gives SOL performance. XP
 
 <!-- Wakatime Stats -->
 <!--
@@ -12,9 +8,6 @@ Hi there, I'm hiki, currently a software engineer in NVIDIA.
   </a>
 </p>
 -->
-
-<!-- Welcome -->
-<p align="left">Feel free to reach out to me and we can have a conversation. 🎏</p>
 
 <!-- Social Media -->
 <p align="left">
@@ -27,5 +20,5 @@ Hi there, I'm hiki, currently a software engineer in NVIDIA.
   <a href="https://wakatime.com/@Aneureka" target="_blank">
     <img alt="Wakatime" src="https://wakatime.com/badge/user/ff842c73-7152-4b40-885a-c5a749eb5688.svg"/>
   </a>
-  <!-- <img alt="ViewCount" src="https://komarev.com/ghpvc?username=Aneureka&color=ff69b4"/> -->
+  <img alt="ViewCount" src="https://komarev.com/ghpvc?username=Aneureka&color=ff69b4"/>
 </p>
