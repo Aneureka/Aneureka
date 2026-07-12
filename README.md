@@ -1,4 +1,4 @@
-Hi, this is Hiki. I graduated from Nanjing University and now work as an Architect at NVIDIA. I spend my days doing my bit to kernel libraries (e.g., cuDNN, CuTe DSL) and optimizing GPU kernels -- basically beating the hardware until it gives SOL performance. XP
+Hi, I’m Hiki! I graduated from Nanjing University and now work as a software engineer at NVIDIA, building GPU kernel libraries like cuDNN and CuTe DSL. :P
 
 <!-- Wakatime Stats -->
 <!--
@@ -11,9 +11,9 @@ Hi, this is Hiki. I graduated from Nanjing University and now work as an Archite
 
 <!-- Social Media -->
 <p align="left">
-  <a href="https://aneureka.com" target="_blank">
+  <!-- <a href="https://aneureka.com" target="_blank">
     <img alt="Homepage" src="https://img.shields.io/badge/Homepage-%23FF69B4.svg?&style=flat&logo=font-awesome&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://twitter.com/Aneureka" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white"/>
   </a>
