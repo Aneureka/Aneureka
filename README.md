@@ -1,4 +1,4 @@
-Hi, I’m Hiki! I graduated from Nanjing University and now work as a software engineer at NVIDIA, building GPU kernel libraries like cuDNN and CuTe DSL. :P
+Software engineer at NVIDIA, building the GPU kernel libraries (CuTe DSL, FlashInfer, cuDNN) that power deep learning performance. Graduated from Nanjing University. Based in Shanghai. Anime and indie game lover. Lifelong learner.
 
 <!-- Wakatime Stats -->
 <!--
