@@ -1,4 +1,4 @@
-Software engineer at NVIDIA, building the GPU kernel libraries (CuTe DSL, FlashInfer, cuDNN) that power deep learning performance. Graduated from Nanjing University. Based in Shanghai. Anime and indie game lover. Lifelong learner.
+Software engineer at NVIDIA, building the GPU kernel libraries (CuTe DSL, FlashInfer, cuDNN) that power deep learning performance. Graduated from Nanjing University. Based in Shanghai. Indie game fans. Lifelong learner.
 
 <!-- Wakatime Stats -->
 <!--
